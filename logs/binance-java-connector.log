@@ -1,0 +1,622 @@
+2024-04-30 19:01:55.289[1714492915289] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Starting CryptoDealBotTaskApplication using Java 17.0.11 with PID 22100 (C:\Dev\Java\CryptoDealBot-task\target\classes started by maxym in C:\Dev\Java\CryptoDealBot-task)
+2024-04-30 19:01:55.293[1714492915293] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-30 19:01:56.181[1714492916181] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat initialized with port 8080 (http)
+2024-04-30 19:01:56.199[1714492916199] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:01:56.200[1714492916200] | INFO  | main       | o.a.catalina.core.StandardService    - Starting service [Tomcat]
+2024-04-30 19:01:56.201[1714492916201] | INFO  | main       | o.a.catalina.core.StandardEngine     - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-04-30 19:01:56.259[1714492916259] | INFO  | main       | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring embedded WebApplicationContext
+2024-04-30 19:01:56.260[1714492916260] | INFO  | main       | o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 917 ms
+2024-04-30 19:01:56.565[1714492916565] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Starting ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:01:56.581[1714492916581] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat started on port 8080 (http) with context path ''
+2024-04-30 19:01:56.588[1714492916588] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Started CryptoDealBotTaskApplication in 1.731 seconds (process running for 2.641)
+2024-04-30 19:02:31.147[1714492951147] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Starting CryptoDealBotTaskApplication using Java 17.0.11 with PID 19688 (C:\Dev\Java\CryptoDealBot-task\target\classes started by maxym in C:\Dev\Java\CryptoDealBot-task)
+2024-04-30 19:02:31.150[1714492951150] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-30 19:02:31.866[1714492951866] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat initialized with port 8080 (http)
+2024-04-30 19:02:31.875[1714492951875] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:02:31.877[1714492951877] | INFO  | main       | o.a.catalina.core.StandardService    - Starting service [Tomcat]
+2024-04-30 19:02:31.877[1714492951877] | INFO  | main       | o.a.catalina.core.StandardEngine     - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-04-30 19:02:31.937[1714492951937] | INFO  | main       | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring embedded WebApplicationContext
+2024-04-30 19:02:31.937[1714492951937] | INFO  | main       | o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 746 ms
+2024-04-30 19:02:32.215[1714492952215] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Starting ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:02:32.230[1714492952230] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat started on port 8080 (http) with context path ''
+2024-04-30 19:02:32.237[1714492952237] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Started CryptoDealBotTaskApplication in 1.451 seconds (process running for 2.245)
+2024-04-30 19:02:36.577[1714492956577] | INFO  | http-nio-8080-exec-5 | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-30 19:02:36.578[1714492956578] | INFO  | http-nio-8080-exec-5 | o.s.web.servlet.DispatcherServlet    - Initializing Servlet 'dispatcherServlet'
+2024-04-30 19:02:36.578[1714492956578] | INFO  | http-nio-8080-exec-5 | o.s.web.servlet.DispatcherServlet    - Completed initialization in 0 ms
+2024-04-30 19:02:36.612[1714492956612] | INFO  | http-nio-8080-exec-5 | c.b.c.f.client.utils.RequestHandler  - GET https://fapi.binance.com/fapi/v1/exchangeInfo
+2024-04-30 19:02:45.629[1714492965629] | INFO  | http-nio-8080-exec-9 | c.b.c.f.client.utils.RequestHandler  - GET https://fapi.binance.com/fapi/v1/exchangeInfo
+2024-04-30 19:05:34.332[1714493134332] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Starting CryptoDealBotTaskApplication using Java 17.0.11 with PID 11376 (C:\Dev\Java\CryptoDealBot-task\target\classes started by maxym in C:\Dev\Java\CryptoDealBot-task)
+2024-04-30 19:05:34.336[1714493134336] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-30 19:05:35.170[1714493135170] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat initialized with port 8080 (http)
+2024-04-30 19:05:35.181[1714493135181] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:05:35.182[1714493135182] | INFO  | main       | o.a.catalina.core.StandardService    - Starting service [Tomcat]
+2024-04-30 19:05:35.183[1714493135183] | INFO  | main       | o.a.catalina.core.StandardEngine     - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-04-30 19:05:35.241[1714493135241] | INFO  | main       | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring embedded WebApplicationContext
+2024-04-30 19:05:35.242[1714493135242] | INFO  | main       | o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 852 ms
+2024-04-30 19:05:35.571[1714493135571] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Starting ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:05:35.587[1714493135587] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat started on port 8080 (http) with context path ''
+2024-04-30 19:05:35.594[1714493135594] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Started CryptoDealBotTaskApplication in 1.682 seconds (process running for 2.356)
+2024-04-30 19:05:45.378[1714493145378] | INFO  | http-nio-8080-exec-5 | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-30 19:05:45.378[1714493145378] | INFO  | http-nio-8080-exec-5 | o.s.web.servlet.DispatcherServlet    - Initializing Servlet 'dispatcherServlet'
+2024-04-30 19:05:45.378[1714493145378] | INFO  | http-nio-8080-exec-5 | o.s.web.servlet.DispatcherServlet    - Completed initialization in 0 ms
+2024-04-30 19:05:45.413[1714493145413] | INFO  | http-nio-8080-exec-5 | c.b.c.f.client.utils.RequestHandler  - GET https://fapi.binance.com/fapi/v1/premiumIndex?symbol=BTCUSDT
+2024-04-30 19:26:51.108[1714494411108] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Starting CryptoDealBotTaskApplication using Java 17.0.11 with PID 1944 (C:\Dev\Java\CryptoDealBot-task\target\classes started by maxym in C:\Dev\Java\CryptoDealBot-task)
+2024-04-30 19:26:51.111[1714494411111] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-30 19:26:52.145[1714494412145] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat initialized with port 8080 (http)
+2024-04-30 19:26:52.153[1714494412153] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:26:52.154[1714494412154] | INFO  | main       | o.a.catalina.core.StandardService    - Starting service [Tomcat]
+2024-04-30 19:26:52.155[1714494412155] | INFO  | main       | o.a.catalina.core.StandardEngine     - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-04-30 19:26:52.213[1714494412213] | INFO  | main       | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring embedded WebApplicationContext
+2024-04-30 19:26:52.213[1714494412213] | INFO  | main       | o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1050 ms
+2024-04-30 19:26:52.568[1714494412568] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Starting ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:26:52.586[1714494412586] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat started on port 8080 (http) with context path ''
+2024-04-30 19:26:52.592[1714494412592] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Started CryptoDealBotTaskApplication in 1.958 seconds (process running for 2.704)
+2024-04-30 19:27:05.805[1714494425805] | INFO  | http-nio-8080-exec-2 | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-30 19:27:05.806[1714494425806] | INFO  | http-nio-8080-exec-2 | o.s.web.servlet.DispatcherServlet    - Initializing Servlet 'dispatcherServlet'
+2024-04-30 19:27:05.806[1714494425806] | INFO  | http-nio-8080-exec-2 | o.s.web.servlet.DispatcherServlet    - Completed initialization in 0 ms
+2024-04-30 19:27:05.837[1714494425837] | INFO  | http-nio-8080-exec-2 | c.b.c.f.client.utils.RequestHandler  - GET https://fapi.binance.com/fapi/v1/premiumIndex?symbol=BTCUSDT
+2024-04-30 19:28:28.806[1714494508806] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Starting CryptoDealBotTaskApplication using Java 17.0.11 with PID 12616 (C:\Dev\Java\CryptoDealBot-task\target\classes started by maxym in C:\Dev\Java\CryptoDealBot-task)
+2024-04-30 19:28:28.809[1714494508809] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-30 19:28:29.565[1714494509565] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat initialized with port 8080 (http)
+2024-04-30 19:28:29.573[1714494509573] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:28:29.574[1714494509574] | INFO  | main       | o.a.catalina.core.StandardService    - Starting service [Tomcat]
+2024-04-30 19:28:29.574[1714494509574] | INFO  | main       | o.a.catalina.core.StandardEngine     - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-04-30 19:28:29.633[1714494509633] | INFO  | main       | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring embedded WebApplicationContext
+2024-04-30 19:28:29.633[1714494509633] | INFO  | main       | o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 779 ms
+2024-04-30 19:28:29.932[1714494509932] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Starting ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:28:29.947[1714494509947] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat started on port 8080 (http) with context path ''
+2024-04-30 19:28:29.954[1714494509954] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Started CryptoDealBotTaskApplication in 1.491 seconds (process running for 2.182)
+2024-04-30 19:28:35.587[1714494515587] | INFO  | http-nio-8080-exec-1 | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-30 19:28:35.588[1714494515588] | INFO  | http-nio-8080-exec-1 | o.s.web.servlet.DispatcherServlet    - Initializing Servlet 'dispatcherServlet'
+2024-04-30 19:28:35.588[1714494515588] | INFO  | http-nio-8080-exec-1 | o.s.web.servlet.DispatcherServlet    - Completed initialization in 0 ms
+2024-04-30 19:28:35.620[1714494515620] | INFO  | http-nio-8080-exec-1 | c.b.c.f.client.utils.RequestHandler  - GET https://fapi.binance.com/fapi/v1/premiumIndex?symbol=BTCUSDT
+2024-04-30 19:29:21.301[1714494561301] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Starting CryptoDealBotTaskApplication using Java 17.0.11 with PID 6496 (C:\Dev\Java\CryptoDealBot-task\target\classes started by maxym in C:\Dev\Java\CryptoDealBot-task)
+2024-04-30 19:29:21.305[1714494561305] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-30 19:29:22.068[1714494562068] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat initialized with port 8080 (http)
+2024-04-30 19:29:22.076[1714494562076] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:29:22.077[1714494562077] | INFO  | main       | o.a.catalina.core.StandardService    - Starting service [Tomcat]
+2024-04-30 19:29:22.078[1714494562078] | INFO  | main       | o.a.catalina.core.StandardEngine     - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-04-30 19:29:22.128[1714494562128] | INFO  | main       | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring embedded WebApplicationContext
+2024-04-30 19:29:22.129[1714494562129] | INFO  | main       | o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 782 ms
+2024-04-30 19:29:22.446[1714494562446] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat started on port 8080 (http) with context path ''
+2024-04-30 19:29:22.453[1714494562453] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Started CryptoDealBotTaskApplication in 1.542 seconds (process running for 2.335)
+2024-04-30 19:29:26.244[1714494566244] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Starting CryptoDealBotTaskApplication using Java 17.0.11 with PID 5400 (C:\Dev\Java\CryptoDealBot-task\target\classes started by maxym in C:\Dev\Java\CryptoDealBot-task)
+2024-04-30 19:29:26.247[1714494566247] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-30 19:29:27.088[1714494567088] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat initialized with port 8080 (http)
+2024-04-30 19:29:27.099[1714494567099] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:29:27.102[1714494567102] | INFO  | main       | o.a.catalina.core.StandardService    - Starting service [Tomcat]
+2024-04-30 19:29:27.102[1714494567102] | INFO  | main       | o.a.catalina.core.StandardEngine     - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-04-30 19:29:27.182[1714494567182] | INFO  | main       | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring embedded WebApplicationContext
+2024-04-30 19:29:27.182[1714494567182] | INFO  | main       | o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 890 ms
+2024-04-30 19:29:27.496[1714494567496] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Starting ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:29:27.513[1714494567513] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat started on port 8080 (http) with context path ''
+2024-04-30 19:29:27.521[1714494567521] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Started CryptoDealBotTaskApplication in 1.638 seconds (process running for 2.296)
+2024-04-30 19:29:34.599[1714494574599] | INFO  | http-nio-8080-exec-1 | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-30 19:29:34.599[1714494574599] | INFO  | http-nio-8080-exec-1 | o.s.web.servlet.DispatcherServlet    - Initializing Servlet 'dispatcherServlet'
+2024-04-30 19:29:34.600[1714494574600] | INFO  | http-nio-8080-exec-1 | o.s.web.servlet.DispatcherServlet    - Completed initialization in 1 ms
+2024-04-30 19:29:34.630[1714494574630] | INFO  | http-nio-8080-exec-1 | c.b.c.f.client.utils.RequestHandler  - GET https://fapi.binance.com/fapi/v1/premiumIndex?symbol=BTCUSDT
+2024-04-30 19:30:19.030[1714494619030] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Starting CryptoDealBotTaskApplication using Java 17.0.11 with PID 13132 (C:\Dev\Java\CryptoDealBot-task\target\classes started by maxym in C:\Dev\Java\CryptoDealBot-task)
+2024-04-30 19:30:19.034[1714494619034] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-30 19:30:19.845[1714494619845] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat initialized with port 8080 (http)
+2024-04-30 19:30:19.853[1714494619853] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:30:19.855[1714494619855] | INFO  | main       | o.a.catalina.core.StandardService    - Starting service [Tomcat]
+2024-04-30 19:30:19.855[1714494619855] | INFO  | main       | o.a.catalina.core.StandardEngine     - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-04-30 19:30:19.914[1714494619914] | INFO  | main       | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring embedded WebApplicationContext
+2024-04-30 19:30:19.914[1714494619914] | INFO  | main       | o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 821 ms
+2024-04-30 19:30:20.199[1714494620199] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Starting ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:30:20.214[1714494620214] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat started on port 8080 (http) with context path ''
+2024-04-30 19:30:20.221[1714494620221] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Started CryptoDealBotTaskApplication in 1.576 seconds (process running for 2.261)
+2024-04-30 19:30:29.601[1714494629601] | INFO  | http-nio-8080-exec-3 | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-30 19:30:29.601[1714494629601] | INFO  | http-nio-8080-exec-3 | o.s.web.servlet.DispatcherServlet    - Initializing Servlet 'dispatcherServlet'
+2024-04-30 19:30:29.602[1714494629602] | INFO  | http-nio-8080-exec-3 | o.s.web.servlet.DispatcherServlet    - Completed initialization in 1 ms
+2024-04-30 19:30:29.632[1714494629632] | INFO  | http-nio-8080-exec-3 | c.b.c.f.client.utils.RequestHandler  - GET https://fapi.binance.com/fapi/v1/premiumIndex?symbol=BTCUSDT
+2024-04-30 19:31:04.485[1714494664485] | INFO  | http-nio-8080-exec-7 | c.b.c.f.client.utils.RequestHandler  - GET https://fapi.binance.com/fapi/v1/premiumIndex?symbol=BTCUSDT
+2024-04-30 19:31:36.973[1714494696973] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Starting CryptoDealBotTaskApplication using Java 17.0.11 with PID 11540 (C:\Dev\Java\CryptoDealBot-task\target\classes started by maxym in C:\Dev\Java\CryptoDealBot-task)
+2024-04-30 19:31:36.976[1714494696976] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-30 19:31:37.744[1714494697744] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat initialized with port 8080 (http)
+2024-04-30 19:31:37.752[1714494697752] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:31:37.753[1714494697753] | INFO  | main       | o.a.catalina.core.StandardService    - Starting service [Tomcat]
+2024-04-30 19:31:37.754[1714494697754] | INFO  | main       | o.a.catalina.core.StandardEngine     - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-04-30 19:31:37.812[1714494697812] | INFO  | main       | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring embedded WebApplicationContext
+2024-04-30 19:31:37.813[1714494697813] | INFO  | main       | o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 789 ms
+2024-04-30 19:31:38.126[1714494698126] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Starting ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:31:38.143[1714494698143] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat started on port 8080 (http) with context path ''
+2024-04-30 19:31:38.150[1714494698150] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Started CryptoDealBotTaskApplication in 1.537 seconds (process running for 2.206)
+2024-04-30 19:31:44.687[1714494704687] | INFO  | http-nio-8080-exec-2 | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-30 19:31:44.687[1714494704687] | INFO  | http-nio-8080-exec-2 | o.s.web.servlet.DispatcherServlet    - Initializing Servlet 'dispatcherServlet'
+2024-04-30 19:31:44.688[1714494704688] | INFO  | http-nio-8080-exec-2 | o.s.web.servlet.DispatcherServlet    - Completed initialization in 1 ms
+2024-04-30 19:31:44.720[1714494704720] | INFO  | http-nio-8080-exec-2 | c.b.c.f.client.utils.RequestHandler  - GET https://fapi.binance.com/fapi/v1/premiumIndex?symbol=BTCUSDT
+2024-04-30 19:31:46.968[1714494706968] | ERROR | http-nio-8080-exec-2 | o.a.c.c.C.[.[.[.[dispatcherServlet]  - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception
+com.fasterxml.jackson.databind.exc.MismatchedInputException: raw timestamp (1714521600000) not allowed for `java.time.LocalDateTime`: need additional information such as an offset or time-zone (see class Javadocs)
+ at [Source: (String)"{"symbol":"BTCUSDT","markPriceDto":"60206.23112766","indexPrice":"60227.83468085","estimatedSettlePrice":"60691.93353093","lastFundingRate":"0.00010000","interestRate":"0.00010000","nextFundingTime":1714521600000,"time":1714494706000}"; line: 1, column: 197] (through reference chain: com.spring.maxym.cryptodealbottask.dto.MarkPriceDto["nextFundingTime"])
+	at com.fasterxml.jackson.databind.exc.MismatchedInputException.from(MismatchedInputException.java:63)
+	at com.fasterxml.jackson.databind.DeserializationContext.reportInputMismatch(DeserializationContext.java:1739)
+	at com.fasterxml.jackson.datatype.jsr310.deser.JSR310DateTimeDeserializerBase._throwNoNumericTimestampNeedTimeZone(JSR310DateTimeDeserializerBase.java:180)
+	at com.fasterxml.jackson.datatype.jsr310.deser.LocalDateTimeDeserializer.deserialize(LocalDateTimeDeserializer.java:140)
+	at com.fasterxml.jackson.datatype.jsr310.deser.LocalDateTimeDeserializer.deserialize(LocalDateTimeDeserializer.java:40)
+	at com.fasterxml.jackson.databind.deser.SettableBeanProperty.deserialize(SettableBeanProperty.java:545)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer._deserializeWithErrorWrapping(BeanDeserializer.java:570)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer._deserializeUsingPropertyBased(BeanDeserializer.java:439)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializerBase.deserializeFromObjectUsingNonDefault(BeanDeserializerBase.java:1419)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserializeFromObject(BeanDeserializer.java:352)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:185)
+	at com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.readRootValue(DefaultDeserializationContext.java:323)
+	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4825)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3772)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3740)
+	at com.spring.maxym.cryptodealbottask.rest.MarketController.getPremiumIndex(MarketController.java:31)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:926)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:831)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1736)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2024-04-30 19:32:21.897[1714494741897] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Starting CryptoDealBotTaskApplication using Java 17.0.11 with PID 9500 (C:\Dev\Java\CryptoDealBot-task\target\classes started by maxym in C:\Dev\Java\CryptoDealBot-task)
+2024-04-30 19:32:21.900[1714494741900] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-30 19:32:22.643[1714494742643] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat initialized with port 8080 (http)
+2024-04-30 19:32:22.651[1714494742651] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:32:22.652[1714494742652] | INFO  | main       | o.a.catalina.core.StandardService    - Starting service [Tomcat]
+2024-04-30 19:32:22.652[1714494742652] | INFO  | main       | o.a.catalina.core.StandardEngine     - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-04-30 19:32:22.704[1714494742704] | INFO  | main       | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring embedded WebApplicationContext
+2024-04-30 19:32:22.704[1714494742704] | INFO  | main       | o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 760 ms
+2024-04-30 19:32:22.985[1714494742985] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Starting ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:32:23.002[1714494743002] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat started on port 8080 (http) with context path ''
+2024-04-30 19:32:23.009[1714494743009] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Started CryptoDealBotTaskApplication in 1.449 seconds (process running for 2.11)
+2024-04-30 19:32:26.147[1714494746147] | INFO  | http-nio-8080-exec-1 | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-30 19:32:26.147[1714494746147] | INFO  | http-nio-8080-exec-1 | o.s.web.servlet.DispatcherServlet    - Initializing Servlet 'dispatcherServlet'
+2024-04-30 19:32:26.148[1714494746148] | INFO  | http-nio-8080-exec-1 | o.s.web.servlet.DispatcherServlet    - Completed initialization in 1 ms
+2024-04-30 19:32:26.182[1714494746182] | INFO  | http-nio-8080-exec-1 | c.b.c.f.client.utils.RequestHandler  - GET https://fapi.binance.com/fapi/v1/premiumIndex?symbol=BTCUSDT
+2024-04-30 19:32:55.342[1714494775342] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Starting CryptoDealBotTaskApplication using Java 17.0.11 with PID 16148 (C:\Dev\Java\CryptoDealBot-task\target\classes started by maxym in C:\Dev\Java\CryptoDealBot-task)
+2024-04-30 19:32:55.346[1714494775346] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-30 19:32:56.137[1714494776137] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat initialized with port 8080 (http)
+2024-04-30 19:32:56.146[1714494776146] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:32:56.148[1714494776148] | INFO  | main       | o.a.catalina.core.StandardService    - Starting service [Tomcat]
+2024-04-30 19:32:56.148[1714494776148] | INFO  | main       | o.a.catalina.core.StandardEngine     - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-04-30 19:32:56.207[1714494776207] | INFO  | main       | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring embedded WebApplicationContext
+2024-04-30 19:32:56.207[1714494776207] | INFO  | main       | o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 809 ms
+2024-04-30 19:32:56.511[1714494776511] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Starting ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:32:56.526[1714494776526] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat started on port 8080 (http) with context path ''
+2024-04-30 19:32:56.533[1714494776533] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Started CryptoDealBotTaskApplication in 1.565 seconds (process running for 2.292)
+2024-04-30 19:33:01.406[1714494781406] | INFO  | http-nio-8080-exec-1 | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-30 19:33:01.406[1714494781406] | INFO  | http-nio-8080-exec-1 | o.s.web.servlet.DispatcherServlet    - Initializing Servlet 'dispatcherServlet'
+2024-04-30 19:33:01.406[1714494781406] | INFO  | http-nio-8080-exec-1 | o.s.web.servlet.DispatcherServlet    - Completed initialization in 0 ms
+2024-04-30 19:33:01.437[1714494781437] | INFO  | http-nio-8080-exec-1 | c.b.c.f.client.utils.RequestHandler  - GET https://fapi.binance.com/fapi/v1/premiumIndex?symbol=BTCUSDT
+2024-04-30 19:44:44.081[1714495484081] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Starting CryptoDealBotTaskApplication using Java 17.0.11 with PID 17036 (C:\Dev\Java\CryptoDealBot-task\target\classes started by maxym in C:\Dev\Java\CryptoDealBot-task)
+2024-04-30 19:44:44.084[1714495484084] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-30 19:44:44.853[1714495484853] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat initialized with port 8080 (http)
+2024-04-30 19:44:44.861[1714495484861] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:44:44.863[1714495484863] | INFO  | main       | o.a.catalina.core.StandardService    - Starting service [Tomcat]
+2024-04-30 19:44:44.863[1714495484863] | INFO  | main       | o.a.catalina.core.StandardEngine     - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-04-30 19:44:44.915[1714495484915] | INFO  | main       | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring embedded WebApplicationContext
+2024-04-30 19:44:44.915[1714495484915] | INFO  | main       | o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 778 ms
+2024-04-30 19:44:45.219[1714495485219] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Starting ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:44:45.237[1714495485237] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat started on port 8080 (http) with context path ''
+2024-04-30 19:44:45.245[1714495485245] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Started CryptoDealBotTaskApplication in 1.608 seconds (process running for 2.435)
+2024-04-30 19:44:48.433[1714495488433] | INFO  | http-nio-8080-exec-3 | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-30 19:44:48.433[1714495488433] | INFO  | http-nio-8080-exec-3 | o.s.web.servlet.DispatcherServlet    - Initializing Servlet 'dispatcherServlet'
+2024-04-30 19:44:48.434[1714495488434] | INFO  | http-nio-8080-exec-3 | o.s.web.servlet.DispatcherServlet    - Completed initialization in 1 ms
+2024-04-30 19:44:48.473[1714495488473] | ERROR | http-nio-8080-exec-3 | o.a.c.c.C.[.[.[.[dispatcherServlet]  - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.util.Map$Entry.getValue()" is null] with root cause
+java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.util.Map$Entry.getValue()" is null
+	at com.binance.connector.futures.client.utils.UrlBuilder.joinQueryParameters(UrlBuilder.java:75)
+	at com.binance.connector.futures.client.utils.UrlBuilder.buildFullUrl(UrlBuilder.java:26)
+	at com.binance.connector.futures.client.utils.RequestHandler.sendApiRequest(RequestHandler.java:42)
+	at com.binance.connector.futures.client.utils.RequestHandler.sendPublicRequest(RequestHandler.java:61)
+	at com.binance.connector.futures.client.impl.futures.Market.markPrice(Market.java:60)
+	at com.binance.connector.futures.client.impl.um_futures.UMMarket.markPrice(UMMarket.java:37)
+	at com.spring.maxym.cryptodealbottask.service.MarketService.getPremiumIndex(MarketService.java:23)
+	at com.spring.maxym.cryptodealbottask.rest.MarketController.getPremiumIndex(MarketController.java:22)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:926)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:831)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1736)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2024-04-30 19:46:12.368[1714495572368] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Starting CryptoDealBotTaskApplication using Java 17.0.11 with PID 18408 (C:\Dev\Java\CryptoDealBot-task\target\classes started by maxym in C:\Dev\Java\CryptoDealBot-task)
+2024-04-30 19:46:12.370[1714495572370] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-30 19:46:13.143[1714495573143] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat initialized with port 8080 (http)
+2024-04-30 19:46:13.151[1714495573151] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:46:13.152[1714495573152] | INFO  | main       | o.a.catalina.core.StandardService    - Starting service [Tomcat]
+2024-04-30 19:46:13.153[1714495573153] | INFO  | main       | o.a.catalina.core.StandardEngine     - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-04-30 19:46:13.209[1714495573209] | INFO  | main       | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring embedded WebApplicationContext
+2024-04-30 19:46:13.210[1714495573210] | INFO  | main       | o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 788 ms
+2024-04-30 19:46:13.528[1714495573528] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Starting ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:46:13.549[1714495573549] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat started on port 8080 (http) with context path ''
+2024-04-30 19:46:13.556[1714495573556] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Started CryptoDealBotTaskApplication in 1.565 seconds (process running for 2.226)
+2024-04-30 19:46:17.650[1714495577650] | INFO  | http-nio-8080-exec-3 | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-30 19:46:17.650[1714495577650] | INFO  | http-nio-8080-exec-3 | o.s.web.servlet.DispatcherServlet    - Initializing Servlet 'dispatcherServlet'
+2024-04-30 19:46:17.651[1714495577651] | INFO  | http-nio-8080-exec-3 | o.s.web.servlet.DispatcherServlet    - Completed initialization in 1 ms
+2024-04-30 19:46:17.687[1714495577687] | ERROR | http-nio-8080-exec-3 | o.a.c.c.C.[.[.[.[dispatcherServlet]  - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.util.Map$Entry.getValue()" is null] with root cause
+java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.util.Map$Entry.getValue()" is null
+	at com.binance.connector.futures.client.utils.UrlBuilder.joinQueryParameters(UrlBuilder.java:75)
+	at com.binance.connector.futures.client.utils.UrlBuilder.buildFullUrl(UrlBuilder.java:26)
+	at com.binance.connector.futures.client.utils.RequestHandler.sendApiRequest(RequestHandler.java:42)
+	at com.binance.connector.futures.client.utils.RequestHandler.sendPublicRequest(RequestHandler.java:61)
+	at com.binance.connector.futures.client.impl.futures.Market.markPrice(Market.java:60)
+	at com.binance.connector.futures.client.impl.um_futures.UMMarket.markPrice(UMMarket.java:37)
+	at com.spring.maxym.cryptodealbottask.service.MarketService.getPremiumIndex(MarketService.java:23)
+	at com.spring.maxym.cryptodealbottask.rest.MarketController.getPremiumIndex(MarketController.java:22)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:926)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:831)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1736)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2024-04-30 19:47:27.339[1714495647339] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Starting CryptoDealBotTaskApplication using Java 17.0.11 with PID 20248 (C:\Dev\Java\CryptoDealBot-task\target\classes started by maxym in C:\Dev\Java\CryptoDealBot-task)
+2024-04-30 19:47:27.341[1714495647341] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-30 19:47:28.101[1714495648101] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat initialized with port 8080 (http)
+2024-04-30 19:47:28.109[1714495648109] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:47:28.110[1714495648110] | INFO  | main       | o.a.catalina.core.StandardService    - Starting service [Tomcat]
+2024-04-30 19:47:28.110[1714495648110] | INFO  | main       | o.a.catalina.core.StandardEngine     - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-04-30 19:47:28.167[1714495648167] | INFO  | main       | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring embedded WebApplicationContext
+2024-04-30 19:47:28.168[1714495648168] | INFO  | main       | o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 779 ms
+2024-04-30 19:47:28.440[1714495648440] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Starting ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:47:28.457[1714495648457] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat started on port 8080 (http) with context path ''
+2024-04-30 19:47:28.464[1714495648464] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Started CryptoDealBotTaskApplication in 1.48 seconds (process running for 2.142)
+2024-04-30 19:47:33.462[1714495653462] | INFO  | http-nio-8080-exec-2 | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-30 19:47:33.463[1714495653463] | INFO  | http-nio-8080-exec-2 | o.s.web.servlet.DispatcherServlet    - Initializing Servlet 'dispatcherServlet'
+2024-04-30 19:47:33.464[1714495653464] | INFO  | http-nio-8080-exec-2 | o.s.web.servlet.DispatcherServlet    - Completed initialization in 1 ms
+2024-04-30 19:47:33.497[1714495653497] | ERROR | http-nio-8080-exec-2 | o.a.c.c.C.[.[.[.[dispatcherServlet]  - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.util.Map$Entry.getValue()" is null] with root cause
+java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.util.Map$Entry.getValue()" is null
+	at com.binance.connector.futures.client.utils.UrlBuilder.joinQueryParameters(UrlBuilder.java:75)
+	at com.binance.connector.futures.client.utils.UrlBuilder.buildFullUrl(UrlBuilder.java:26)
+	at com.binance.connector.futures.client.utils.RequestHandler.sendApiRequest(RequestHandler.java:42)
+	at com.binance.connector.futures.client.utils.RequestHandler.sendPublicRequest(RequestHandler.java:61)
+	at com.binance.connector.futures.client.impl.futures.Market.markPrice(Market.java:60)
+	at com.binance.connector.futures.client.impl.um_futures.UMMarket.markPrice(UMMarket.java:37)
+	at com.spring.maxym.cryptodealbottask.service.MarketService.getPremiumIndex(MarketService.java:24)
+	at com.spring.maxym.cryptodealbottask.rest.MarketController.getPremiumIndex(MarketController.java:22)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:926)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:831)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1736)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2024-04-30 19:47:57.203[1714495677203] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Starting CryptoDealBotTaskApplication using Java 17.0.11 with PID 7008 (C:\Dev\Java\CryptoDealBot-task\target\classes started by maxym in C:\Dev\Java\CryptoDealBot-task)
+2024-04-30 19:47:57.207[1714495677207] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-30 19:47:57.956[1714495677956] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat initialized with port 8080 (http)
+2024-04-30 19:47:57.963[1714495677963] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:47:57.965[1714495677965] | INFO  | main       | o.a.catalina.core.StandardService    - Starting service [Tomcat]
+2024-04-30 19:47:57.965[1714495677965] | INFO  | main       | o.a.catalina.core.StandardEngine     - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-04-30 19:47:58.021[1714495678021] | INFO  | main       | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring embedded WebApplicationContext
+2024-04-30 19:47:58.022[1714495678022] | INFO  | main       | o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 762 ms
+2024-04-30 19:47:58.294[1714495678294] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Starting ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:47:58.310[1714495678310] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat started on port 8080 (http) with context path ''
+2024-04-30 19:47:58.318[1714495678318] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Started CryptoDealBotTaskApplication in 1.537 seconds (process running for 2.224)
+2024-04-30 19:48:00.859[1714495680859] | INFO  | http-nio-8080-exec-2 | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-30 19:48:00.859[1714495680859] | INFO  | http-nio-8080-exec-2 | o.s.web.servlet.DispatcherServlet    - Initializing Servlet 'dispatcherServlet'
+2024-04-30 19:48:00.860[1714495680860] | INFO  | http-nio-8080-exec-2 | o.s.web.servlet.DispatcherServlet    - Completed initialization in 1 ms
+2024-04-30 19:48:00.893[1714495680893] | ERROR | http-nio-8080-exec-2 | o.a.c.c.C.[.[.[.[dispatcherServlet]  - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.util.Map$Entry.getValue()" is null] with root cause
+java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.util.Map$Entry.getValue()" is null
+	at com.binance.connector.futures.client.utils.UrlBuilder.joinQueryParameters(UrlBuilder.java:75)
+	at com.binance.connector.futures.client.utils.UrlBuilder.buildFullUrl(UrlBuilder.java:26)
+	at com.binance.connector.futures.client.utils.RequestHandler.sendApiRequest(RequestHandler.java:42)
+	at com.binance.connector.futures.client.utils.RequestHandler.sendPublicRequest(RequestHandler.java:61)
+	at com.binance.connector.futures.client.impl.futures.Market.markPrice(Market.java:60)
+	at com.binance.connector.futures.client.impl.um_futures.UMMarket.markPrice(UMMarket.java:37)
+	at com.spring.maxym.cryptodealbottask.service.MarketService.getPremiumIndex(MarketService.java:24)
+	at com.spring.maxym.cryptodealbottask.rest.MarketController.getPremiumIndex(MarketController.java:22)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:926)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:831)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1736)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2024-04-30 19:49:17.429[1714495757429] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Starting CryptoDealBotTaskApplication using Java 17.0.11 with PID 21184 (C:\Dev\Java\CryptoDealBot-task\target\classes started by maxym in C:\Dev\Java\CryptoDealBot-task)
+2024-04-30 19:49:17.433[1714495757433] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-30 19:49:18.234[1714495758234] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat initialized with port 8080 (http)
+2024-04-30 19:49:18.243[1714495758243] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:49:18.245[1714495758245] | INFO  | main       | o.a.catalina.core.StandardService    - Starting service [Tomcat]
+2024-04-30 19:49:18.245[1714495758245] | INFO  | main       | o.a.catalina.core.StandardEngine     - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-04-30 19:49:18.298[1714495758298] | INFO  | main       | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring embedded WebApplicationContext
+2024-04-30 19:49:18.299[1714495758299] | INFO  | main       | o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 818 ms
+2024-04-30 19:49:18.646[1714495758646] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Starting ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:49:18.664[1714495758664] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat started on port 8080 (http) with context path ''
+2024-04-30 19:49:18.671[1714495758671] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Started CryptoDealBotTaskApplication in 1.703 seconds (process running for 2.488)
+2024-04-30 19:49:19.854[1714495759854] | INFO  | http-nio-8080-exec-2 | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-30 19:49:19.854[1714495759854] | INFO  | http-nio-8080-exec-2 | o.s.web.servlet.DispatcherServlet    - Initializing Servlet 'dispatcherServlet'
+2024-04-30 19:49:19.855[1714495759855] | INFO  | http-nio-8080-exec-2 | o.s.web.servlet.DispatcherServlet    - Completed initialization in 1 ms
+2024-04-30 19:49:19.892[1714495759892] | INFO  | http-nio-8080-exec-2 | c.b.c.f.client.utils.RequestHandler  - GET https://fapi.binance.com/fapi/v1/premiumIndex?symbol=
+2024-04-30 19:49:42.417[1714495782417] | INFO  | http-nio-8080-exec-3 | c.b.c.f.client.utils.RequestHandler  - GET https://fapi.binance.com/fapi/v1/premiumIndex?symbol=BTCUSDT
+2024-04-30 19:49:42.724[1714495782724] | ERROR | http-nio-8080-exec-3 | o.a.c.c.C.[.[.[.[dispatcherServlet]  - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception
+com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize value of type `[Lcom.spring.maxym.cryptodealbottask.dto.MarkPriceDto;` from Object value (token `JsonToken.START_OBJECT`)
+ at [Source: (String)"{"symbol":"BTCUSDT","markPrice":"60464.37297163","indexPrice":"60485.16404255","estimatedSettlePrice":"60549.10324239","lastFundingRate":"0.00010000","interestRate":"0.00010000","nextFundingTime":1714521600000,"time":1714495782000}"; line: 1, column: 1]
+	at com.fasterxml.jackson.databind.exc.MismatchedInputException.from(MismatchedInputException.java:59)
+	at com.fasterxml.jackson.databind.DeserializationContext.reportInputMismatch(DeserializationContext.java:1752)
+	at com.fasterxml.jackson.databind.DeserializationContext.handleUnexpectedToken(DeserializationContext.java:1526)
+	at com.fasterxml.jackson.databind.DeserializationContext.handleUnexpectedToken(DeserializationContext.java:1473)
+	at com.fasterxml.jackson.databind.deser.std.ObjectArrayDeserializer.handleNonArray(ObjectArrayDeserializer.java:345)
+	at com.fasterxml.jackson.databind.deser.std.ObjectArrayDeserializer.deserialize(ObjectArrayDeserializer.java:197)
+	at com.fasterxml.jackson.databind.deser.std.ObjectArrayDeserializer.deserialize(ObjectArrayDeserializer.java:27)
+	at com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.readRootValue(DefaultDeserializationContext.java:323)
+	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4825)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3772)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3740)
+	at com.spring.maxym.cryptodealbottask.service.MarketService.getPremiumIndex(MarketService.java:25)
+	at com.spring.maxym.cryptodealbottask.rest.MarketController.getPremiumIndex(MarketController.java:22)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:926)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:831)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1736)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2024-04-30 19:56:28.312[1714496188312] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Starting CryptoDealBotTaskApplication using Java 17.0.11 with PID 5412 (C:\Dev\Java\CryptoDealBot-task\target\classes started by maxym in C:\Dev\Java\CryptoDealBot-task)
+2024-04-30 19:56:28.316[1714496188316] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-30 19:56:29.194[1714496189194] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat initialized with port 8080 (http)
+2024-04-30 19:56:29.203[1714496189203] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:56:29.205[1714496189205] | INFO  | main       | o.a.catalina.core.StandardService    - Starting service [Tomcat]
+2024-04-30 19:56:29.205[1714496189205] | INFO  | main       | o.a.catalina.core.StandardEngine     - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-04-30 19:56:29.270[1714496189270] | INFO  | main       | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring embedded WebApplicationContext
+2024-04-30 19:56:29.271[1714496189271] | INFO  | main       | o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 903 ms
+2024-04-30 19:56:29.580[1714496189580] | INFO  | main       | o.a.coyote.http11.Http11NioProtocol  - Starting ProtocolHandler ["http-nio-8080"]
+2024-04-30 19:56:29.597[1714496189597] | INFO  | main       | o.s.b.w.e.tomcat.TomcatWebServer     - Tomcat started on port 8080 (http) with context path ''
+2024-04-30 19:56:29.604[1714496189604] | INFO  | main       | c.s.m.c.CryptoDealBotTaskApplication - Started CryptoDealBotTaskApplication in 1.716 seconds (process running for 2.484)
+2024-04-30 19:56:32.138[1714496192138] | INFO  | http-nio-8080-exec-3 | o.a.c.c.C.[Tomcat].[localhost].[/]   - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-30 19:56:32.138[1714496192138] | INFO  | http-nio-8080-exec-3 | o.s.web.servlet.DispatcherServlet    - Initializing Servlet 'dispatcherServlet'
+2024-04-30 19:56:32.139[1714496192139] | INFO  | http-nio-8080-exec-3 | o.s.web.servlet.DispatcherServlet    - Completed initialization in 1 ms
+2024-04-30 19:56:32.170[1714496192170] | INFO  | http-nio-8080-exec-3 | c.b.c.f.client.utils.RequestHandler  - GET https://fapi.binance.com/fapi/v1/premiumIndex?symbol=BTCUSDT
+2024-04-30 19:56:40.761[1714496200761] | INFO  | http-nio-8080-exec-5 | c.b.c.f.client.utils.RequestHandler  - GET https://fapi.binance.com/fapi/v1/premiumIndex?symbol=
+2024-04-30 19:56:48.013[1714496208013] | INFO  | http-nio-8080-exec-7 | c.b.c.f.client.utils.RequestHandler  - GET https://fapi.binance.com/fapi/v1/premiumIndex?symbol=BTCUSDT
